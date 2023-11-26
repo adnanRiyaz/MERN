@@ -1,0 +1,26 @@
+.nav-link{
+    color:aliceblue;
+    margin-left: 10px;
+    text-decoration: none;
+    padding: 0px 17px;
+    transition: 0.2s;
+    font-family: Changa;
+}
+
+.nav-link:hover{
+    border-radius: 45px;
+    background-color: blue;
+    color: aliceblue;
+    transform: scale(1.1);
+  
+}
+#backdiv{
+
+background-image: url("back.jpg");
+
+height:100vh;
+min-height:100px;
+padding: 0px 0px;
+background-size:cover;
+background-repeat: no-repeat;
+}
